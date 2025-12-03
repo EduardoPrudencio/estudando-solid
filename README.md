@@ -1,2 +1,0 @@
-# estudando-solid
-# estudando-solid
